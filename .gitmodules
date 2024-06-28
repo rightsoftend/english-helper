@@ -1,0 +1,6 @@
+[submodule "backend/gq/nest"]
+	path = backend/gq/nest
+	url = git@github.com:rightsoftend/eh-gq-nest.git
+[submodule "front/gq/react"]
+	path = front/gq/react
+	url = git@github.com:rightsoftend/eh-gq-react.git
